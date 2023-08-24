@@ -1,5 +1,6 @@
-
 ## Contributing
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgetkrish%2Fmslearn-tailspin-spacegame-web-deploy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgetkrish%2Fmslearn-tailspin-spacegame-web-deploy?ref=badge_shield)
+
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -12,3 +13,6 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgetkrish%2Fmslearn-tailspin-spacegame-web-deploy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgetkrish%2Fmslearn-tailspin-spacegame-web-deploy?ref=badge_large)
